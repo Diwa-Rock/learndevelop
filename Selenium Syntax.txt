@@ -33,6 +33,10 @@ tagname,name,contains,key
 
 
 
+waits implicit wait and explicit wait and fluent wait
+
+
+
 
 
 
