@@ -31,6 +31,8 @@ DOM = Document Object Model                                            SYNTAX   
 
 tagname,name,contains,key
 
+waits implicit
+
 
 
 waits implicit wait and explicit wait and fluent wait
