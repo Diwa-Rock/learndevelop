@@ -1,0 +1,128 @@
+Selenium Syntax:
+configure the browser:
+system.setProperty(key,value)  Key mean webdriver and value mean particular driver location
+
+InterfaceName objRef = new ClassName();
+
+//launch the browser
+driver.get("url");
+
+//maximize the screen
+driver.manage().window().maximize();
+
+//print the title of webpage
+driver.gettitle()
+
+//print the current url
+driver.getcurrenturl()
+
+//close the window
+driver.quit()
+
+Types of Locators:(predefined static methods which is available in abstract method)
+
+DOM = Document Object Model                                            SYNTAX                                                             METHOD
+1.id                                                               by.id("ID webelement")
+2.name                                                             by.name("name webelement")
+3.xpath ---->2types---->absolute xpath(/)and relative xpath(//)    //tagname[@attributeName ="attributeValue']                        click()
+    xpath based on index                                           (//tagname[@attributeName ='attributeValue'][index])
+   
+4.text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
