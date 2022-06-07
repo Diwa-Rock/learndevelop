@@ -29,6 +29,7 @@ DOM = Document Object Model                                            SYNTAX   
    
 4.text
 
+tagname,name,contains,key
 
 
 
